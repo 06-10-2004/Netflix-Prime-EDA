@@ -110,7 +110,7 @@ The project is part of my data analytics learning journey and focuses on extract
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - SciPy (T-test, ANOVA)
-- Jupyter Notebook
+- Google colab
 - Data Cleaning & Feature Engineering
 
 ---
@@ -146,6 +146,6 @@ This project demonstrates how exploratory data analysis can uncover meaningful i
 ## Author
  HARITHA S  
  
- [ Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook ] 
+ [ Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Google colab ] 
 
 [View Project PDF](https://github.com/06-10-2004/EDA-Netflix-and-Prime-Video-Movies/blob/main/EDA.pdf)
